@@ -16203,6 +16203,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
+      propertyPath: tiempoNivel
+      value: 455
+      objectReference: {fileID: 0}
+    - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoTermino.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1145756284}
@@ -19390,7 +19394,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: dc156fe21e97463409a8c3bd1aff5e4c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.404
+  m_Volume: 0.202
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -20713,7 +20717,7 @@ PrefabInstance:
       objectReference: {fileID: 939883881}
     - target: {fileID: 5822301180387387102, guid: 4881c66758e814767ab4c7d9f2192e4b, type: 3}
       propertyPath: cantidadBombillos
-      value: 4
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 5822301180387387102, guid: 4881c66758e814767ab4c7d9f2192e4b, type: 3}
       propertyPath: terminoRecoleccion.m_PersistentCalls.m_Calls.Array.data[0].m_Target
